@@ -29,7 +29,7 @@ fNIRS signals were captured using **high-resolution near-infrared systems** as s
 ---
 
 
-## 📈 Usage & Applications
+##  Usage & Applications
 
 This dataset is valuable for:
 
@@ -41,15 +41,15 @@ This dataset is valuable for:
 ---
 
 
-## 💾 Dataset Download
+##  Dataset Download
 
 Due to size constraints, the dataset has been uploaded to OneDrive:
 
-📥 **[Download from OneDrive](https://aseblr-my.sharepoint.com/:f:/g/personal/bl_en_u4aie23109_bl_students_amrita_edu/EuRea1MhXCVIuXg1rYmbmd4BYI4H-PEVr412fdCPD9k1MQ?e=GxGtlK)**
+ **[Download from OneDrive](https://aseblr-my.sharepoint.com/:f:/g/personal/bl_en_u4aie23109_bl_students_amrita_edu/EuRea1MhXCVIuXg1rYmbmd4BYI4H-PEVr412fdCPD9k1MQ?e=GxGtlK)**
 
 ---
 
-## 📝 Citation
+##  Citation
 
 If you use this dataset, please cite the following paper:
 
